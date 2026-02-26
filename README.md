@@ -1,7 +1,7 @@
-# My Project
+# I'm Goated
 
-![Badge](https://example.com/badge.png)
+![Goated Badge](https://example.com/path-to-goated-badge.png)
 
-![Pinimg Image](https://pinimg.com/path/to/image.jpg)
+![Pinterest Image](https://i.pinimg.com/736x/a9/a9/a0/a9a9a002c5276e43066a4363e4ef61c3.jpg)
 
-This user is goated with a premium look.
+Welcome to my awesome repository! 
